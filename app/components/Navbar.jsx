@@ -46,7 +46,7 @@ export default function Navbar() {
             alt={isMenuOpen ? "close.svg" : "menu.svg"}
             width={32}
             height={32}
-            className="cursor-pointer bg-slate-400"
+            className="cursor-pointer"
           />
         </button>
       </div>
